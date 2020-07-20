@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2y18lte/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/samsung/j2y18lte/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/j2y18lte/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
-    vendor/samsung/j2y18lte/proprietary/lib/libchromaflash.so:system/lib/libchromaflash.so \
     vendor/samsung/j2y18lte/proprietary/vendor/bin/LKCore:$(TARGET_COPY_OUT_VENDOR)/bin/LKCore \
     vendor/samsung/j2y18lte/proprietary/vendor/bin/audioflacapp:$(TARGET_COPY_OUT_VENDOR)/bin/audioflacapp \
     vendor/samsung/j2y18lte/proprietary/vendor/bin/chamomile_provision:$(TARGET_COPY_OUT_VENDOR)/bin/chamomile_provision \
