@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/j2y18lte/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/samsung/j2y18lte/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
+    vendor/samsung/j2y18lte/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/samsung/j2y18lte/proprietary/etc/firmware/DE.o.msm8937:system/etc/firmware/DE.o.msm8937 \
     vendor/samsung/j2y18lte/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/samsung/j2y18lte/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
