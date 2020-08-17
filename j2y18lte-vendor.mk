@@ -53,9 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2y18lte/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/samsung/j2y18lte/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
     vendor/samsung/j2y18lte/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/wlan/prima/grippower.info:system/etc/firmware/wlan/prima/grippower.info \
     vendor/samsung/j2y18lte/proprietary/etc/permissions/com.qti.location.sdk.xml:system/etc/permissions/com.qti.location.sdk.xml \
     vendor/samsung/j2y18lte/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/j2y18lte/proprietary/etc/permissions/embms.xml:system/etc/permissions/embms.xml \
